@@ -31,4 +31,4 @@ Para probar la aplicación en tu dispositivo o emulador:
 
 1. Clona el repositorio en tu máquina:
    ```bash
-   git clone https://github.com/tu_usuario/quickcalculator.git
+   git clone https://github.com/ip25-solutions/QuickCalculator.git
